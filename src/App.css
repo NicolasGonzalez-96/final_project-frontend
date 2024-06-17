@@ -1,0 +1,157 @@
+/* Estilos Navbar */
+
+.containernavbar{
+    background-color:#212121;
+}
+.containernavbar1{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    gap: 2rem;
+    
+}
+
+.containernavbar2{
+    display: flex;
+    align-items: end;
+    gap: 1rem;
+    
+}
+
+.textdecoration {
+    text-decoration: none;
+    color: white;
+}
+
+.textdecoration2 {
+    text-decoration: none;
+    color: #212121
+}
+
+.icono-carro {
+    font-size: 25px;
+}
+
+/* Estilos Formulario */
+
+.formulario {
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.containerformulario{ 
+color: white;
+text-align: center;
+border-style: solid;
+border-color: white;
+border-width: 2px;
+border-radius: 10px;
+padding: 60px 40px;
+justify-content: center;
+display: flex;
+align-items: center;
+align-content: center;
+flex-direction: column;
+gap: 10px;
+margin: auto;
+text-align: center;
+}
+
+.titulo-formulario{
+    color:  #198754;
+}
+
+/* Estilos Footer */
+
+.footer-component{
+    background-color: #212121;
+   
+}
+
+.footer-grid {
+    display: grid;
+    justify-content: center;
+
+}
+
+.footer-grid2 {
+    display: grid;
+    justify-content: center;
+    gap: 100px;
+    padding: 30px 0px;
+    min-width: 100vh;
+    margin: 0px;
+}
+
+.parrafo-footer{
+    text-align: center;
+}
+.divisor{
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+/* Estilos Cards Productos */
+
+.cards {
+    margin: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    text-align: center;
+}
+
+.divisor-cards{
+    border: solid;
+    border-width: 1px;
+    border-color: #212121;
+    padding: 0px 120px;
+}
+
+.botones {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.card-component{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.input-catalogo{
+    width: 15rem;
+    margin: 30px 30px 0px 30px;
+    
+}
+
+.container-cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Estilos carro  */
+
+.carro{ 
+    color: white;
+    margin-bottom: 500px;
+}
+
+/* Estilos card detalle-producto  */
+
+.detalle-producto{
+    margin-bottom: 500px;
+}
