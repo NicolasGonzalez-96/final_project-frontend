@@ -1,0 +1,52 @@
+[
+    {
+      "desc": "El MacBook Air está hecho para que trabajes y te diviertas al máximo. Con la llegada del chip M3, este notebook súper portátil es capaz de hacer cosas aún más increíbles. Y como tiene hasta 18 horas de batería1, está listo para arrasar con cualquier tarea en cualquier lugar.",
+      "id": "P001",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_614885-MLA49588273946_042022-O.webp",
+      "name": "Apple Macbook Air 13'' Chip M1 - 8 Gb - Apple Color Gris espacial",
+      "price": 769990
+    },
+
+    {
+        "desc": "El MacBook Air está hecho para que trabajes y te diviertas al máximo. Con la llegada del chip M3, este notebook súper portátil es capaz de hacer cosas aún más increíbles. Y como tiene hasta 18 horas de batería1, está listo para arrasar con cualquier tarea en cualquier lugar.",
+        "id": "P001",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_614885-MLA49588273946_042022-O.webp",
+        "name": "Apple Macbook Air 13'' Chip M1 - 8 Gb - Apple Color Gris espacial",
+        "price": 769990
+      },
+
+    {
+        "desc": "El MacBook Air está hecho para que trabajes y te diviertas al máximo. Con la llegada del chip M3, este notebook súper portátil es capaz de hacer cosas aún más increíbles. Y como tiene hasta 18 horas de batería1, está listo para arrasar con cualquier tarea en cualquier lugar.",
+        "id": "P003",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_614885-MLA49588273946_042022-O.webp",
+        "name": "Apple Macbook Air 13'' Chip M1 - 8 Gb - Apple Color Gris espacial",
+        "price": 769990
+    },
+
+    {
+        "desc": "El MacBook Air está hecho para que trabajes y te diviertas al máximo. Con la llegada del chip M3, este notebook súper portátil es capaz de hacer cosas aún más increíbles. Y como tiene hasta 18 horas de batería1, está listo para arrasar con cualquier tarea en cualquier lugar.",
+        "id": "P004",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_614885-MLA49588273946_042022-O.webp",
+        "name": "Apple Macbook Air 13'' Chip M1 - 8 Gb - Apple Color Gris espacial",
+        "price": 769990
+    },
+
+    {
+        "desc": "El MacBook Air está hecho para que trabajes y te diviertas al máximo. Con la llegada del chip M3, este notebook súper portátil es capaz de hacer cosas aún más increíbles. Y como tiene hasta 18 horas de batería1, está listo para arrasar con cualquier tarea en cualquier lugar.",
+        "id": "P005",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_614885-MLA49588273946_042022-O.webp",
+        "name": "Apple Macbook Air 13'' Chip M1 - 8 Gb - Apple Color Gris espacial",
+        "price": 769990
+    },
+
+    {
+        "desc": "El MacBook Air está hecho para que trabajes y te diviertas al máximo. Con la llegada del chip M3, este notebook súper portátil es capaz de hacer cosas aún más increíbles. Y como tiene hasta 18 horas de batería1, está listo para arrasar con cualquier tarea en cualquier lugar.",
+        "id": "P006",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_614885-MLA49588273946_042022-O.webp",
+        "name": "Apple Macbook Air 13'' Chip M1 - 8 Gb - Apple Color Gris espacial",
+        "price": 769990
+    }
+    
+  ]
+  
+
