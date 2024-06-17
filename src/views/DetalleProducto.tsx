@@ -1,7 +1,8 @@
 import { useParams } from "react-router-dom"
 import { useContext, useEffect, useState } from "react"
-import MyContext from "../MyContext";
+import MyContext from "../context/MyContext";
 import { useNavigate } from "react-router-dom";
+import '../Styles/DetalleProducto.css'
 
 export default function DetalleProducto () {
 
