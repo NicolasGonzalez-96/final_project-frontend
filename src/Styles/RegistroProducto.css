@@ -1,0 +1,21 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+  }
+  
+  .registro-form {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    background: #f0f2f5;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .registro-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  

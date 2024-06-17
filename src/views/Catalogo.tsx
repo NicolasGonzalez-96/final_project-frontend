@@ -1,4 +1,4 @@
-import MyContext from '../MyContext';
+import MyContext from '../context/MyContext';
 import { useContext, useState} from 'react';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
@@ -30,7 +30,7 @@ export default function Catalogo() {
       return (
       <>
       <div className='container-cards'>
-        <Input className='input-catalogo' placeholder="Buscar"/>;
+        <Input className='input-catalogo' placeholder="Buscar"/>
         <div className="cards"> 
         {productos.map((producto) => (
           <div key={producto.id}>
@@ -57,6 +57,9 @@ export default function Catalogo() {
     )
     
 }
+
+
+
 
 
 

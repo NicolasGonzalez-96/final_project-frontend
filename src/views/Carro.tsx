@@ -1,6 +1,7 @@
 import { useContext } from "react"
-import MyContext from "../MyContext"
+import MyContext from "../context/MyContext"
 import { useNavigate } from "react-router-dom"
+import '../Styles/Carro.css'
 
 
 export default function Carro() {

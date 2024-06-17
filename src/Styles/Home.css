@@ -1,0 +1,45 @@
+
+.carousel {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.carousel-item {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #364d79;
+  color: #fff;
+  font-size: 20px;
+}
+
+
+.carousel-card {
+  width: 100%;
+  max-width: 300px;
+  margin-left: 35%;
+}
+
+.carousel-card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.site-layout-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  background-color: #fff;
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: #001529;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+

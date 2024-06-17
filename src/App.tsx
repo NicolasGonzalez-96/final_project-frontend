@@ -1,6 +1,5 @@
 import { BrowserRouter, Route, Routes} from 'react-router-dom'
 import { useState, useEffect } from 'react'
-import './App.css'
 
 // Importación de views
 import Home from './views/Home'
@@ -19,7 +18,7 @@ import NavbarComponent from './components/Navbar'
 import FooterComponent from './components/Footer'
 
 // Importación de MyContext
-import MyContext from './MyContext'
+import MyContext from './context/MyContext'
 
 function App() {
 
@@ -53,7 +52,7 @@ function App() {
         <NavbarComponent/>
         
             <Routes>
-                <Route path= '/' element={<Home />} />
+                <Route path= '/home' element={<Home />} />
                 <Route path='/login' element={<Login />} />
                 <Route path="producto/">
                   <Route path=":id" element={<DetalleProducto />} />

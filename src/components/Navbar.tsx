@@ -7,11 +7,12 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import { NavLink } from 'react-router-dom';
 import { MdOutlineShoppingCart } from "react-icons/md";
-import MyContext from '../MyContext';
+import MyContext from '../context/MyContext';
 import { useContext } from 'react';
 import React from 'react';
 import { ClockCircleOutlined } from '@ant-design/icons';
 import { Avatar, Badge, Space } from 'antd';
+import '../Styles/Navbar.css'
 
 
 export default function NavbarComponent() {
