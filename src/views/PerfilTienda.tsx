@@ -6,7 +6,7 @@ const { Content } = Layout;
 
 const PerfilTienda: React.FC = () => {
   return (
-    <Layout>
+    <Layout className="layout">
       <Content className="perfil-content">
         <div className="perfil-container">
           <h2>Mi Perfil</h2>
