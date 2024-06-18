@@ -9,22 +9,22 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #364d79;
   color: #fff;
   font-size: 20px;
 }
-
 
 .carousel-card {
   width: 100%;
   max-width: 300px;
   margin-left: 35%;
+  
 }
 
 .carousel-card img {
   width: 100%;
   height: auto;
   object-fit: cover;
+  
 }
 
 .site-layout-content {
@@ -32,14 +32,20 @@
   justify-content: center;
   align-items: center;
   height: 400px;
-  background-color: #fff;
   margin-top: 20px;
+  color:aliceblue;
 }
 
-.footer {
-  background-color: #001529;
-  color: #fff;
-  text-align: center;
-  padding: 10px 0;
+.ant-menu-item {
+  color: aliceblue !important;
 }
 
+.ant-menu-item:hover, .ant-menu-item-active {
+  color: #ffffff !important;
+  background: #1d1d1d !important;
+}
+
+.ant-menu-item-selected {
+  background-color: #212121 !important;
+  color: #ffffff !important;
+}
